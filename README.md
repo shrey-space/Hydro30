@@ -42,27 +42,47 @@ habits can use it, modify it, or extend it according to their needs.
 
 <h2>⚙️ How the App Works</h2>
 
-<ol>
-  <li>
-    When the app starts, the user enters the <b>Hydro30 Challenge</b>.
-  </li>
-  <li>
-    Each day is represented as a card in a 30-day grid layout.
-  </li>
-  <li>
-    The user can add water intake by selecting predefined quantities
-    (e.g., 100ml, 250ml, 500ml).
-  </li>
-  <li>
-    The selected amount is added to the current day’s total intake.
-  </li>
-  <li>
-    Progress updates visually, helping the user stay motivated.
-  </li>
-  <li>
-    Completed days remain marked, encouraging consistency throughout the challenge.
-  </li>
-</ol>
+<p>
+When the user opens the app for the first time, they are welcomed with a setup screen
+that asks them to select a <b>starting date</b> for the hydration challenge.
+After selecting the date, the user can accept and start the <b>30-day water intake challenge</b>.
+</p>
+
+<p>
+Once the challenge is accepted, the app displays a grid of <b>30 blocks</b>,
+each representing one day of the challenge. The challenge timeline begins from
+the selected starting date, and each block corresponds to consecutive days.
+</p>
+
+<p>
+The user can add water intake only for the <b>current day</b>.
+To add water, the user needs to <b>long-press</b> on today’s block.
+This opens a dialog with predefined water quantity options:
+<b>100 ml, 250 ml, 500 ml, and 1 litre</b>.
+</p>
+
+<p>
+When a quantity is selected, the water level inside the day’s block visually increases,
+giving a clear indication of progress. The app allows water intake to be added
+until a maximum limit of <b>2.5 litres per day</b>, helping users maintain a healthy balance.
+</p>
+
+<p>
+By simply tapping on any day’s block, the user can view the <b>water intake logs</b>
+for that day. This helps track when and how much water was consumed throughout the day.
+</p>
+
+<p>
+The challenge automatically completes after <b>30 days</b> from the selected start date.
+If the user wishes to end the challenge before completion, an option is available
+in the <b>top-left corner</b> of the app to close or exit the ongoing challenge.
+</p>
+
+<p>
+This flow keeps the app simple, focused, and easy to use, encouraging users
+to stay consistent without overwhelming them with unnecessary features.
+</p>
+
 
 ---
 
@@ -103,22 +123,6 @@ git clone https://github.com/shrey-space/Hydro30.git
 
 ---
 
-<h2>🎯 Learning Objectives</h2>
-
-<p>
-This project helped in understanding:
-</p>
-
-<ul>
-  <li>Android project structure</li>
-  <li>Activity lifecycle</li>
-  <li>User interaction handling</li>
-  <li>RecyclerView and dialogs</li>
-  <li>Real-world habit-based app design</li>
-</ul>
-
----
-
 <h2>👨‍💻 Author</h2>
 
 <p>
@@ -129,14 +133,6 @@ GitHub: <a href="https://github.com/shrey-space">shrey-space</a>
 
 ---
 
-<h2>📌 Future Enhancements</h2>
-
-<ul>
-  <li>Daily reminder notifications</li>
-  <li>Custom water intake goals</li>
-  <li>Data persistence using Room or Firebase</li>
-  <li>Analytics and progress charts</li>
-</ul>
 
 <hr>
 
