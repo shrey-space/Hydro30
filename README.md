@@ -16,16 +16,28 @@
 <h2>📖 About the App</h2>
 
 <p>
-<b>Hydro30</b> is a habit-based Android application designed to help users
-track and improve their daily water intake over a structured <b>30-day challenge</b>.
-The app focuses on simplicity, consistency, and motivation to build a long-term healthy habit.
+Water is one of the most essential needs of the human body, yet it is often ignored
+in our daily routine. Proper hydration helps maintain energy levels, supports digestion,
+keeps the skin healthy, and improves overall physical and mental performance.
 </p>
 
 <p>
-This project was developed as part of practical learning in Android development,
-with emphasis on clean UI, user interaction, and real-world usability.
+Water deficiency or dehydration can lead to common problems such as fatigue,
+headaches, poor concentration, and reduced productivity. Despite knowing this,
+many people forget to drink enough water consistently throughout the day.
 </p>
 
+<p>
+<b>Hydro30</b> was created as a simple personal solution to fix this habit.
+The idea was to design a minimal and distraction-free app that encourages
+daily water intake through a structured <b>30-day challenge</b>.
+</p>
+
+<p>
+This project was originally built for personal use and learning purposes,
+and later uploaded to GitHub so that anyone who wants to improve their hydration
+habits can use it, modify it, or extend it according to their needs.
+</p>
 ---
 
 <h2>⚙️ How the App Works</h2>
