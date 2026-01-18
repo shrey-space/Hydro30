@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme -->
+    <style name="Base.Theme.Hydro30" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <!-- ✅ Make status bar transparent -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+
+        <!-- ✅ Allow drawing behind system bars -->
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+
+        <!-- ✅ Light icons OFF (white icons for dark background video) -->
+        <item name="android:windowLightStatusBar">false</item>
+
+    </style>
+
+    <style name="Theme.Hydro30" parent="Base.Theme.Hydro30" />
+</resources>
