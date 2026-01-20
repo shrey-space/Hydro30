@@ -96,8 +96,8 @@ to stay consistent without overwhelming them with unnecessary features.
   <li>User-friendly and beginner-focused experience</li>
 </ul>
 
----
-<hr>
+
+
 
 <h2 align="center">📸 App Preview</h2>
 
@@ -110,7 +110,7 @@ to stay consistent without overwhelming them with unnecessary features.
 <p align="center">
   <i>Challenge setup, water intake tracking, and daily logs overview</i>
 </p>
----
+<hr>
 <h2>🛠️ Tech Stack</h2>
 
 <ul>
