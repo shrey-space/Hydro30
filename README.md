@@ -12,7 +12,6 @@
 </p>
 
 <hr>
-
 <h2>📖 About the App</h2>
 
 <p>
@@ -38,7 +37,7 @@ This project was originally built for personal use and learning purposes,
 and later uploaded to GitHub so that anyone who wants to improve their hydration
 habits can use it, modify it, or extend it according to their needs.
 </p>
----
+<hr>
 
 <h2>⚙️ How the App Works</h2>
 
@@ -84,7 +83,7 @@ to stay consistent without overwhelming them with unnecessary features.
 </p>
 
 
----
+<hr>
 
 <h2>✨ Key Features</h2>
 
@@ -97,7 +96,7 @@ to stay consistent without overwhelming them with unnecessary features.
 </ul>
 
 
-
+<hr>
 
 <h2 align="center">📸 App Preview</h2>
 
@@ -134,7 +133,7 @@ git clone https://github.com/shrey-space/Hydro30.git
   <li>Run the app on an emulator or physical Android device</li>
 </ol>
 
----
+<hr>
 
 <h2>👨‍💻 Author</h2>
 
@@ -144,10 +143,7 @@ Software & Full-Stack Development Enthusiast<br>
 GitHub: <a href="https://github.com/shrey-space">shrey-space</a>
 </p>
 
----
 
-
-<hr>
 
 <p align="center">
 ⭐ If you find this project useful, consider starring the repository.
