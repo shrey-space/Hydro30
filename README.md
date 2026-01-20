@@ -97,7 +97,20 @@ to stay consistent without overwhelming them with unnecessary features.
 </ul>
 
 ---
+<hr>
 
+<h2 align="center">📸 App Preview</h2>
+
+<p align="center">
+  <img src="screenshots/challenge_page.jpeg" width="220" alt="Challenge Page" />
+  <img src="screenshots/add_water.jpeg" width="220" alt="Add Water Dialog" />
+  <img src="screenshots/log.jpeg" width="220" alt="Water Intake Logs" />
+</p>
+
+<p align="center">
+  <i>Challenge setup, water intake tracking, and daily logs overview</i>
+</p>
+---
 <h2>🛠️ Tech Stack</h2>
 
 <ul>
